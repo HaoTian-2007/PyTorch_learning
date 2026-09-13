@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 《PyTorch深度学习实践》课程及作业代码完整版
 
 课程：B站 @刘二大人 【《PyTorch深度学习实践》完结合集】 https://www.bilibili.com/video/BV1Y7411d7Ys/?p=13&share_source=copy_web&vd_source=ca081a1c0d3d84091ecb1700100bec4f
